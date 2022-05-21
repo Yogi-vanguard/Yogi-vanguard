@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](woking on it)**
 
-- 📫 How to reach me **yogi7work@gmail.com**
+- 📫 How to reach me **git.yrawat@gmail.com**
 
 - ⚡ Fun fact **I am from Electronics background and I become a Software Engineer.**
 
