@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ecommerce](Working on it)**
+- 🔭 I’m currently working on **[Ecommerce](Almost complete)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
