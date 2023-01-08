@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ecommerce](Almost complete)**
+- 🔭 I’m currently working on **Proximity Service**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Redux.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
