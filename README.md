@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](woking on it)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://3d-portfolio-lovat-omega.vercel.app/)**
 
 - 📫 How to reach me **yogi7work@gmail.com**
 
