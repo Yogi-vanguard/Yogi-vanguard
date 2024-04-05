@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Proximity Service**
+- 🔭 I’m currently working on **Metro Map**
 
-- 🌱 I’m currently learning **Redux.**
+- 🌱 I’m currently learning **System Design.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
