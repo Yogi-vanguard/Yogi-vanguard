@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://3d-portfolio-lovat-omega.vercel.app/)**
 
-- 📫 How to reach me **yogi7work@gmail.com**
+- 📫 How to reach me **yogirawat2507@gmail.com**
 
 - ⚡ Fun fact **I am from Electronics background and I become a Software Engineer.**
 
